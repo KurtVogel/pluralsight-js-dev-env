@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 19693659,
+      "firstName": "Andreane",
+      "lastName": "Runolfsson",
+      "email": "Shania_Corwin@gmail.com"
+    },
+    {
+      "id": 21761805,
+      "firstName": "Jennyfer",
+      "lastName": "Kuhn",
+      "email": "Genevieve_Feil34@yahoo.com"
+    },
+    {
+      "id": 47299249,
+      "firstName": "Rowan",
+      "lastName": "D'Amore",
+      "email": "Lyla_Lubowitz@gmail.com"
+    },
+    {
+      "id": 39077214,
+      "firstName": "Tiana",
+      "lastName": "Armstrong",
+      "email": "Jewell12@yahoo.com"
+    }
+  ]
+}
