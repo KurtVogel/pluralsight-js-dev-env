@@ -16,6 +16,22 @@ getUsers().then(result => {
       </tr>`
   });
 
+  var kerro = (x, y) => x * y;
+  var lisaa = (x, y) => x + y;
+  var vahenna = (x, y) => x - y;
+
+  function yht(x, y) {
+    return kerro(x,y) + lisaa(x,y) + vahenna(x,y);
+  }
+
+function peroFunctio(x) {
+  return x+"pero";
+}
+
+console.log(peroFunctio("rin"));
+  console.log(yht(2,8));
+
+
   global.document.getElementById('users').innerHTML = usersBody;
 
   const deleteLinks = global.document.getElementsByClassName('deleteUser');
